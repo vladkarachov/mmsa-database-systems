@@ -16,5 +16,4 @@
 [awesome]: https://github.com/sindresorhus/awesome
 [mmsa-database-systems]: https://github.com/lrochka/mmsa-database-systems
 2. "Vdovichenko" "Dmitro", *"Movies and TV Shows DataBase"* https://github.com/bataisk/db_course_work.git
-
 19. Khomych Alexander, *"Online Pokémon Go Game Assistant"* https://github.com/MrPer4ik/db_coursework
