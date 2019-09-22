@@ -9,12 +9,15 @@
 
 ## KA-75 info  
 1. "Last name" "First name", *"Project topic"* Repository Link
+18. Fedurko Mykola, Job Search Site https://github.com/B1Z0N/workspide
 
 ## KA-76 info  
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
 [mmsa-database-systems]: https://github.com/lrochka/mmsa-database-systems
-2. "Vdovichenko" "Dmitro", *"Movies and TV Shows DataBase"* https://github.com/bataisk/db_course_work.git 
+2. Vdovichenko Dmitro, *"Movies and TV Shows DataBase"* https://github.com/bataisk/db_course_work.git
 
 3. Haltseva Anastasiia, *"Оnline store of decorative cosmetics"* https://github.com/haltseva/course_work_3.git
+
+5. Zalevskyi Vladyslav, *Research Portfolio* https://github.com/Vivikar/portfolio
