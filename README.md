@@ -11,7 +11,7 @@
 1. "Last name" "First name", *"Project topic"* Repository Link
 
 ## KA-76 info  
-10. Morkva Svitlana, *"Website for tourism with best places for visit DataBase"* https://github.com/lamialuce/db_coursework.git
+10.M orkva Svitlana, *"Website for tourism with best places for visit DataBase"* https://github.com/lamialuce/db_coursework.git
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
 [mmsa-database-systems]: https://github.com/lrochka/mmsa-database-systems
