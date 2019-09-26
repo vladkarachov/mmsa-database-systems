@@ -18,4 +18,4 @@
 [mmsa-database-systems]: https://github.com/lrochka/mmsa-database-systems
 2. "Vdovichenko" "Dmitro", *"Movies and TV Shows DataBase"* https://github.com/bataisk/db_course_work.git
 5. Zalevskyi Vladyslav, *Research Portfolio* https://github.com/Vivikar/portfolio
-
+9. Pashneva Olga, *Restaurant management system* https://github.com/olgapashneva/databases_final_project.git
