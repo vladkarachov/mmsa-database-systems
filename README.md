@@ -22,4 +22,5 @@
 3. Haltseva Anastasiia, *"Оnline store of decorative cosmetics"* https://github.com/haltseva/course_work_3.git
 
 5. Zalevskyi Vladyslav, *Research Portfolio* https://github.com/Vivikar/portfolio
+7. Kyzyurova Evgenia, *Online store of flowers* https://github.com/EvgeniaKyzyurova/course_work
 9. Pashneva Olga, *Restaurant management system* https://github.com/olgapashneva/databases_final_project.git
