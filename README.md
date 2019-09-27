@@ -9,6 +9,7 @@
 
 ## KA-75 info  
 1. "Last name" "First name", *"Project topic"* Repository Link
+3. Zagny Egor, *Honey store* https://github.com/EgorZagny/coursework3-db-web.git
 18. Fedurko Mykola, Job Search Site https://github.com/B1Z0N/workspide
 
 ## KA-76 info  
