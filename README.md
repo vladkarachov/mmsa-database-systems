@@ -9,6 +9,7 @@
 
 ## KA-75 info  
 1. "Last name" "First name", *"Project topic"* Repository Link
+5. Kryva Anna *"Language courses abroad"* https://github.com/anna-kryva/database-course-work.git
 13. Sierykh Julia, *Cinema Web Site* [repo]: https://github.com/Julia-22/cinema_web
 18. Fedurko Mykola, Job Search Site https://github.com/B1Z0N/workspide
 19. Shevchuk Oleksij, "Jym training data base", https://github.com/spichka-vin/db_course_work
