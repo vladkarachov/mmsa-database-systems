@@ -11,6 +11,7 @@
 1. "Last name" "First name", *"Project topic"* Repository Link
 13. Sierykh Julia, *Cinema Web Site* [repo]: https://github.com/Julia-22/cinema_web
 18. Fedurko Mykola, Job Search Site https://github.com/B1Z0N/workspide
+19. Shevchuk Oleksij, "Jym training data base", https://github.com/spichka-vin/db_course_work
 
 ## KA-76 info  
 1. Morkva Svitlana, *"Website for tourism with best places for visit DataBase"* https://github.com/lamialuce/db_coursework.git  
