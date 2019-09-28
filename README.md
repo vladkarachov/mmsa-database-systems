@@ -16,6 +16,7 @@
 19. Shevchuk Oleksij, "Jym training data base", https://github.com/spichka-vin/db_course_work
 
 3. Zagny Egor, *Honey store* https://github.com/EgorZagny/coursework3-db-web.git
+2. Braha Tetiana, *Website for a pizza restaurant* https://github.com/TaniaBraha/course_work_web.git
 
 ## KA-76 info  
 1. Morkva Svitlana, *"Website for tourism with best places for visit DataBase"* https://github.com/lamialuce/db_coursework.git  
